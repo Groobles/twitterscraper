@@ -273,7 +273,7 @@ You can easily use TwitterScraper from within python:
 
           query_single_page(query, lang, pos, retry=50, from_user=False, timeout=60)
    
-   - Query all tweets that match qeury:
+   - Query all tweets that match query:
       Parameters:
          - query:     The query search parameter
          - limit:     Number of tweets returned
